@@ -1,3 +1,6 @@
+
+视频效果：[2024技术美术暑假实习生作品集_哔哩哔哩bilibili](https://www.bilibili.com/video/BV11x4y1P7YM/)****
+
 ## 后处理
 
 #### Gaussian Blur高斯模糊
